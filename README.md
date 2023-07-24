@@ -12,7 +12,7 @@ In conclusion, the Mobile and Web-based Number Betting Application is an innovat
 
 ## Screenshots
 
-![App Screenshot](screenshots/Slider2.png)
+![App Screenshot](screenshots/Slide1.png)
 ### [Checkout All Screenshots](screenshots)
 
 #
